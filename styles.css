@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Serif, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@ body {
 
 /* หัวข้อ */
 h1, h2, h3 {
-    color: #333;
+    color: #000000;
     text-align: center;
 }
 
@@ -32,7 +32,7 @@ h1, h2, h3 {
     background: #f9f9f9;
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid #ddd;
+    border: 1px solid #c2c1c1;
     transition: 0.3s;
 }
 
@@ -43,7 +43,7 @@ h1, h2, h3 {
 /* ลิงก์ของชื่อผู้ใช้ */
 .user-item a {
     text-decoration: none;
-    color: #007bff;
+    color: #8e63aa;
     font-weight: bold;
 }
 
